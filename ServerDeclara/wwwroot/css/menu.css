@@ -32,3 +32,13 @@
 .selector {
     filter: invert(80%);
 }
+
+.menu-franja-blanca {
+    position: fixed;
+    left: 0;
+    bottom: 8vh;
+    width: 100vw;
+    background-color: white;
+    height: 5px;
+    z-index: 1002;
+}

@@ -9,5 +9,6 @@
 
         public double AnticipoExcedente { get; set; } = 0;
         public double AnticipoBimestre { get; set; } = 0;
+        public bool AnticipoNF_SI_NO { get; set; }
     }
 }
